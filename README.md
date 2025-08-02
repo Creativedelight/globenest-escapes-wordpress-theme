@@ -64,7 +64,7 @@ Please install WordPress separately before using this theme.
 ## 📞 Contact
 
 **Created by:** Faith Munuhe  
-📧 Email: info@globenestescapes.com  
+📧 Email: munuhefay@gmail.com  
  
 📍 Nairobi, Kenya
 
